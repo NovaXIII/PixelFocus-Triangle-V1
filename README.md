@@ -1,5 +1,7 @@
 # PixelFocus Triangle V1
 
+![Preview](https://cdn.modrinth.com/data/cached_images/0f47bd438e793c8ca4f30f164b7035e78b8b1b29.png)
+
 ## Overview
 PixelFocus Triangle V1 is a precision-focused Minecraft resource pack designed to replace the default crosshair with a clean triangular aiming indicator. Built for players who value minimal UI and maximum visual clarity, this pack enhances aim stability without distracting elements.
 
